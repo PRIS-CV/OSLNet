@@ -5,7 +5,7 @@ Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Sof
 
 
 ## Changelog
-- 2020/04/19 upload the code. 
+- 2020/04/? upload the code. 
 
 ## Dataset
 ### CIFAR-100
@@ -26,15 +26,7 @@ Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Sof
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-@ARTICLE{X, 
-author={X. {Li} and D. {Chang} and Z. {Ma} and Z. H. {Tan} and J. H. {Xue} and J. {Cao} and J. {Yu} and J. {Guo}}, 
-journal={IEEE Transactions on Image Processing}, 
-title={OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer}, 
-year={}, volume={29}, number={}, 
-pages={}, 
-doi={}, 
-ISSN={}, 
-month={},} 
+
 ```
 
 
