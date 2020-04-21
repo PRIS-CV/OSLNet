@@ -5,7 +5,7 @@ Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Sof
 
 
 ## Changelog
-- 2020/04/? upload the code. 
+- 2020/04/21 upload the code. 
 
 ## Dataset
 ### CIFAR-100
@@ -18,8 +18,8 @@ Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Sof
 
 ## Training
 - Download datasets
-- Train: `python OS-CNN.py` 
-- Description : PyTorch CIFAR-100 Training with OSNet.
+- Train: `python OS-CNN.py`  or `python CNN.py` 
+- Description : PyTorch CIFAR-100 Training with OSNet or PyTorch CIFAR-100 Training with Vanilla Model.
 
 
 
