@@ -22,7 +22,8 @@ Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Sof
 - Description : PyTorch CIFAR-100 Training with OSNet or PyTorch CIFAR-100 Training with Vanilla Model.
 
 
-
+## Accuracy and Cross-entropy loss
+![AccuracyandCross-entropyloss](https://github.com/dongliangchang/OSLNet/blob/master/cross-entropy%20loss%20and%20accuracy.png)
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
