@@ -1,7 +1,7 @@
 # OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer
 
 Code release for OSLNet: Deep Small-Sample Classification with an Orthogonal Softmax Layer (TIP2020)
-[ArXiv](https://arxiv.org/abs/2004.09033 "ArXiv")
+[DOI](https://doi.org/10.1109/TIP.2020.2990277 "DOI")
 
 
 ## Changelog
