@@ -35,7 +35,8 @@ If you find this paper useful in your research, please consider citing:
   year={2020},
   volume={},
   number={},
-  pages={1-1},}
+  pages={1-1},
+}
 
 ```
 
